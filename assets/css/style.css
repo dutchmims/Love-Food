@@ -193,7 +193,7 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url(../images/ethos-center-image.jpg) no-repeat center center;
+    background: url(../images/apple-plant-fruit-berry-summer-food-1165151-pxhere.com.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
@@ -202,7 +202,7 @@ hr {
 /* event times */
 
 #times {
-    background-image: url(../images/dublin-city.webp);
+    background-image: url(../images/plant-fruit-sweet-meal-food-produce-1250568-pxhere.com.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -350,7 +350,7 @@ footer {
 
 .form-section {
     clear: left;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background: url(../images/forest-plant-raspberry-fruit-berry-ripe-1159521-pxhere.com.jpg);;
     background-size: cover;
     background-position: center;
     height: 900px;
