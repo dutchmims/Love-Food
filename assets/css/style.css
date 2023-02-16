@@ -346,7 +346,6 @@ footer {
     
 }
 
-
 /* Form */
 
 .form-section {
@@ -360,7 +359,7 @@ footer {
 .signup-form {
     margin-top: 150px;
     color: #fff;
-    background-color: rgba(60, 60, 60, .6);
+    background-color: rgba(60,60,60, .6);
     max-width: 400px;
     position: absolute;
     left: 10%;
@@ -402,3 +401,5 @@ footer {
     background-color: #fafafa;
     color: #f16c6b;
 }
+
+
