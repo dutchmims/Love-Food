@@ -73,7 +73,7 @@ h1, h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(../images/flower-aroma-food-pepper-spice-kitchen-1162194-pxhere.com.jpg) no-repeat center center;
+    background: url(../images/table-nature-plant-raspberry-fruit-berry-1193302-pxhere.com.jpg) no-repeat center center;
 
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
@@ -202,7 +202,7 @@ hr {
 /* event times */
 
 #times {
-    background-image: url(../images/plant-fruit-sweet-meal-food-produce-1250568-pxhere.com.jpg);
+    background-image: url(../images/forest-plant-raspberry-fruit-berry-ripe-1159521-pxhere.com.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -350,7 +350,7 @@ footer {
 
 .form-section {
     clear: left;
-    background: url(../images/forest-plant-raspberry-fruit-berry-ripe-1159521-pxhere.com.jpg);;
+    background: url(../images/flower-aroma-food-pepper-spice-kitchen-1162194-pxhere.com.jpg);;
     background-size: cover;
     background-position: center;
     height: 900px;
