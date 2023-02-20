@@ -359,7 +359,7 @@ footer {
 .signup-form {
     margin-top: 150px;
     color: #fff;
-    background-color: rgba(60,60,60, .6);
+    background-color: rgba(60,60,60, 0.6);
     max-width: 400px;
     position: absolute;
     left: 10%;
@@ -371,7 +371,7 @@ footer {
     margin-bottom: 20px;
 }
 
-.text-input{
+.text-input {
     background: transparent;
     color: #fafafa;
     width: 100%;
@@ -379,7 +379,6 @@ footer {
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
     border-radius: 2px;
-    
 }
 
 .text-input:hover {
@@ -396,6 +395,7 @@ footer {
     color: #fafafa;
     display: block;
 }
+
 
 .join-button:hover {
     background-color: #fafafa;
