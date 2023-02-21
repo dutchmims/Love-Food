@@ -2,12 +2,23 @@ Code Institute Project 1
 HTML & CSS
 README.md
 
+<img width="1135" alt="Screenshot 2023-02-20 at 22 41 51" src="https://user-images.githubusercontent.com/119881922/220458399-ba34809f-ee95-4614-a560-3864aaa995cd.png">
 
-<img width="1110" alt="Screenshot 2023-02-20 at 22 42 38" src="https://user-images.githubusercontent.com/119881922/220458161-8e71e566-29f9-45a9-b6be-cfd852923c6d.png">
+
+
+
+
+
 
 
 
 <img width="1110" alt="Screenshot 2023-02-20 at 22 42 38" src="https://user-images.githubusercontent.com/119881922/220458251-c38a35c2-28ce-411a-ba41-832f835dccba.png">
+
+
+
+
+
+
 
 
 
