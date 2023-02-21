@@ -199,9 +199,9 @@ hr {
 }
 
 
-/* days of the week */
+/* event times */
 
-#days {
+#times {
     background-image: url(../images/forest-plant-raspberry-fruit-berry-ripe-1159521-pxhere.com.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -210,7 +210,7 @@ hr {
     overflow: hidden;
 }
 
-#days div {
+#times div {
     color: #fafafa;
     background-color: rgb(0, 0, 0, .6);
     width: 20%;
@@ -222,7 +222,7 @@ hr {
     box-sizing: border-box;
 }
 
-#days h2 {
+#times h2 {
     color: #fafafa;
 }
 
@@ -262,9 +262,9 @@ footer {
 
 /* Media queries */
 
-/* For larger to medium screens size from 1200px wide and down */
+/* For larger to medium screen size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
-    #club-ethos {
+    #our-ethos {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
@@ -274,9 +274,9 @@ footer {
         padding: 30px 0;
         margin: 0;
     }
-
+    
     #left-about, #right-about {
-        width: 100%;
+        width: 65%;
         float: left;
         padding: 0;
     }
@@ -288,22 +288,18 @@ footer {
         padding: 0;
     }
 
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
     hr {
         display: none;
     }
 }
 
-/* For medium screen sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
-
-    #menu {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
-}
 
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
@@ -320,7 +316,7 @@ footer {
         left: 0;
     }
 
-    #club-ethos {
+    #our-ethos {
         width: 90%;
         height: 1200px;
         margin: 0 auto;
@@ -335,16 +331,73 @@ footer {
         text-align: center;
     }
 
-    .left-about-heading p, .right-about-heading p {
+    .left-about-heading P, .right-about-heading P {
         text-align: center;
-        padding: 0 20px;
+        padding: 0 20PX;
     }
+
 }
 
-/* For small screen sizes 800px and down */
+/* For small screen sizes below 800px width */
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
     }
+    
 }
 
+/* Form */
+
+.form-section {
+    clear: left;
+    background: url(../images/flower-aroma-food-pepper-spice-kitchen-1162194-pxhere.com.jpg);;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+.signup-form {
+    margin-top: 150px;
+    color: #fff;
+    background-color: rgba(60,60,60, .6);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+}
+
+.signup-form > h2 {
+    color:#fafafa;
+    margin-bottom: 20px;
+}
+
+.text-input{
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    
+}
+
+.text-input:hover {
+    border-color: #f16c6b;
+}
+
+.join-button{
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #f16c6b;
+    color: #fafafa;
+    display: block;
+}
+
+.join-button:hover {
+    background-color: #fafafa;
+    color: #f16c6b;
+}
