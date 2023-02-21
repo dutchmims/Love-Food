@@ -212,7 +212,7 @@ hr {
 
 #times div {
     color: #fafafa;
-    background-color: rgb(0, 0, 0, .6);
+    background-color: rgba(0, 0, 0, .6);
     width: 20%;
     height: 300px;
     float: left;
