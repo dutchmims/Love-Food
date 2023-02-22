@@ -11,36 +11,32 @@
  	Love Food (https://dutchmims.github.io/Love-Food/)
 
 
-Table of contents
+#Table of contents
 
-•	Project Overview
-•	List of features
-•	UX/UI 
-•	Testing 
-•	Deployment 
-•	Citation of ALL sources(code, images, text) 
-•	Future features 
-•	Known Bugs 
-
-
+1. Project Overview
+2. List of features
+3. UX/UI 
+4. Testing 
+5. Deployment 
+6. Citation of ALL sources(code, images, text) 
+7. Future features 
+8. Known Bugs 
 
 
-List of Features
+#List of Features
 
-Structure of features section 
-•	Feature name 
-•	A description about the feature and how it works 
-•	Screenshot image of the feature 
+##Structure of features section 
+
+1. Feature name 
+2. A description about the feature and how it works 
+3. Screenshot image of the feature 
 
 
+# UX/UI Section 
 
-
-UX/UI Section 
-
-This section is for showing your 
-•	Site goals 
-•	Design thought process 
-•	Planning and wireframe design 
+1. Site goals 
+2. Design thought process 
+3. Planning and wireframe design 
 
 
 This section you should have
