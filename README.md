@@ -11,7 +11,7 @@
  	Love Food (https://dutchmims.github.io/Love-Food/)
 
 
-#Table of contents
+# Table of contents
 
 1. Project Overview
 2. List of features
@@ -23,9 +23,9 @@
 8. Known Bugs 
 
 
-#List of Features
+# List of Features
 
-##Structure of features section 
+## Structure of features section 
 
 1. Feature name 
 2. A description about the feature and how it works 
