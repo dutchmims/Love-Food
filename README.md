@@ -62,13 +62,13 @@ Cheap Healthy Meals: We have many recipes that don't require you to shop around.
 
 # Wireframe design 
 
-<img width="442" alt="Screenshot 2023-02-22 at 22 47 54" src="https://user-images.githubusercontent.com/119881922/220778288-bb26e9d2-61d2-4ba7-8d4e-b559b851ac1e.png">
+<img width="730" alt="Screenshot 2023-02-22 at 22 55 46" src="https://user-images.githubusercontent.com/119881922/220781194-64d0d171-f583-4c80-b3c3-2c301306ee51.png">
 
 
-<img width="418" alt="Screenshot 2023-02-22 at 22 48 01" src="https://user-images.githubusercontent.com/119881922/220778302-75212c78-df93-44fb-a927-c78b44baf060.png">
+<img width="725" alt="Screenshot 2023-02-22 at 22 56 16" src="https://user-images.githubusercontent.com/119881922/220781219-7796c268-2dd6-4177-9a83-2432a755ad71.png">
 
 
-<img width="428" alt="Screenshot 2023-02-22 at 22 48 18" src="https://user-images.githubusercontent.com/119881922/220778313-684002f8-6559-41a1-9475-1d03cee62303.png">
+<img width="753" alt="Screenshot 2023-02-22 at 22 56 44" src="https://user-images.githubusercontent.com/119881922/220781258-47830e15-5f13-4045-ad88-da9382fb6d0e.png">
 
 
 # Testing Section
