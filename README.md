@@ -60,16 +60,15 @@ Cheap Healthy Meals: We have many recipes that don't require you to shop around.
 3. I want to know what other options (memberships) are available
 
 
+# Wireframe design 
+
+<img width="442" alt="Screenshot 2023-02-22 at 22 47 54" src="https://user-images.githubusercontent.com/119881922/220778288-bb26e9d2-61d2-4ba7-8d4e-b559b851ac1e.png">
 
 
+<img width="418" alt="Screenshot 2023-02-22 at 22 48 01" src="https://user-images.githubusercontent.com/119881922/220778302-75212c78-df93-44fb-a927-c78b44baf060.png">
 
 
-Design thought process 
-Planning and wireframe design 
-Design choices 
-Wireframes 
-Database structure(PP3, PP4, PP5) 
-
+<img width="428" alt="Screenshot 2023-02-22 at 22 48 18" src="https://user-images.githubusercontent.com/119881922/220778313-684002f8-6559-41a1-9475-1d03cee62303.png">
 
 
 # Testing Section
