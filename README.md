@@ -88,55 +88,55 @@
 
 https://pixabay.com/photos/olive-oil-tomatoes-basil-eat-1412361/
 
-RitaE 
-https://pixabay.com/photos/eclair-strawberrycake-strawberries-3366430/
-https://pixabay.com/users/ritae-19628/
-https://pixabay.com/photos/salmon-fish-fried-shrimp-scampi-6353898/Shutterbug75
-https://pixabay.com/photos/salmon-herbs-food-dish-fish-meat-1238248/
+### RitaE 
 
-Daria-Yakovleva 
+https://pixabay.com/photos/eclair-strawberrycake-strawberries-3366430/
+https://pixabay.com/photos/salmon-fish-fried-shrimp-scampi-6353898/Shutterbug75
+
+### Daria-Yakovleva 
+
 https://pixabay.com/photos/plums-box-apricots-fruits-1898196/
 https://pixabay.com/photos/raspberries-fruits-food-fresh-2023403/
 
-vika-imperia550 
+### vika-imperia550 
+
 https://pixabay.com/photos/meat-food-protein-shish-kebab-1155132/
 
-NickyPe 
-https://pixabay.com/photos/raspberries-blueberries-fruit-food-5163781/
+### Chad Montano 
 
-StockSnap 
-https://pixabay.com/photos/table-cloth-fork-food-fruits-2600954/
-
-Chad Montano 
 https://unsplash.com/photos/MqT0asuoIcU
 https://unsplash.com/photos/eeqbbemH9-c
 
-Anna Tukhfatullina 
+### Anna Tukhfatullina 
+
 https://unsplash.com/photos/Mzy-OjtCI70
 
-Joseph Gonzalez 
+### Joseph Gonzalez 
+
 https://unsplash.com/photos/fdlZBWIP0aM
 https://unsplash.com/photos/zcUgjyqEwe8
 
-Victoria Shes 
+###Victoria Shes  
+
 https://unsplash.com/photos/UC0HZdUitWY
 
-khloe arledge 
+### khloe arledge 
+
 https://unsplash.com/photos/ND3edEmzcdQ
 
-Olayinka Babalola 
+### Olayinka Babalola 
+
 https://unsplash.com/photos/r01ZopTiEV8
 
-Michele Blackwell 
+###Michele Blackwell  
+
 https://unsplash.com/photos/rAyCBQTH7ws
 
-photo-graphe 
+### photo-graphe 
+
 https://pixabay.com/photos/shrimp-oyster-seafood-sea-food-1502724/
 
-DanaTentis 
-https://pixabay.com/photos/salmon-fish-grilled-fish-grill-2997240/
-
-Pxhere.com
+### pxhere.com
 https://pxhere.com/en/photo/1362674
 
 https://pxhere.com/en/photo/1162194
@@ -148,8 +148,12 @@ https://pxhere.com/en/photo/1193302
 https://pxhere.com/en/photo/1159521
 
 
-3. Code 
-4. Text 
+# Code 
+
+
+
+
+# Text 
 5. Link to relevant site 
 6. Authors name/pseudonym 
 7. Link to actual content 
