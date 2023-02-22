@@ -26,19 +26,6 @@ Easy to Cook: On Love Food, you will learn how easy it can be to prepare delicio
 Cheap Healthy Meals: We have many recipes that don't require you to shop around. Everyday items, such as fresh fruit and vegtables, to fresh fish and meat. We will show you how to get the most from your ingredients.
 
 
-2. List of features
-3. UX/UI 
-4. Testing 
-5. Deployment 
-6. Citation of ALL sources(code, images, text) 
-7. Future features 
-8. Known Bugs 
-
-# Project Overview 
-
-
-# List of Features
-
 ## Structure of features section 
 
 1. Feature name 
@@ -48,14 +35,38 @@ Cheap Healthy Meals: We have many recipes that don't require you to shop around.
 
 # UX/UI Section 
 
-1. Site goals 
-2. Design thought process 
-3. Planning and wireframe design 
-4.	Design choices 
-5. User stories 
-6. Wireframes 
-7. Database structure(PP3, PP4, PP5) 
-8. Anything else you want to add that relates to UX/UI 
+## Site Goals
+
+### Website Goals
+
+### As the website owner I want
+1. Gain as many views as possible.
+2. Gain as many customers (members) as possible.
+3. to provide as much informitave information as possible to gain peoples interest in our service.
+4. To give members something back when they introduce a friend.
+
+## User stories
+
+### As a first time visitor
+1. I want to easily understand the product and whats being offered.
+2. I want to understand the company and thier ethics.
+3. I want to know how much each product (membership) costs.
+4. I want to ask questions and learn about different options (memberships).
+5. I want to view the website on all different media devices.
+
+### As a returning visitor
+1. I want to navigate quickly to get what I came for.
+2. I want to be able to contact the company.
+3. I want to know what other options (memberships) are available
+
+
+3. Design thought process 
+4. Planning and wireframe design 
+5.	Design choices 
+6. User stories 
+7. Wireframes 
+8. Database structure(PP3, PP4, PP5) 
+9. Anything else you want to add that relates to UX/UI 
 
 
 # Testing Section
