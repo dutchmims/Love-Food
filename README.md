@@ -54,13 +54,16 @@
 
 
 ## Manual testing of your features 
-•	Test each feature of your site using Feature > Expected Result > Action Taken > Result 
-•	Document every feature test with a screenshot 
+1. Test each feature of your site using Feature
+2. Expected Result 
+3. Action Taken 
+4. Result 
+5. Document every feature test with a screenshot 
 
 ## Manual testing of user stories 
-•	Test user story by using the site 
-•	Document the results of each test 
-•	Add screenshots to supplement tests 
+1. Test user story by using the site 
+2. Document the results of each test 
+3. Add screenshots to supplement tests 
 
 
 # Deployment
