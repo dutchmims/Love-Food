@@ -39,11 +39,11 @@ Cheap Healthy Meals: We have many recipes that don't require you to shop around.
 
 ### Website Goals
 
-### As the website owner I want
-1. Gain as many views as possible.
-2. Gain as many customers (members) as possible.
-3. to provide as much informitave information as possible to gain peoples interest in our service.
-4. To give members something back when they introduce a friend.
+### As the website owner
+1. I want to gain as many views as possible.
+2. I want to gain as many customers (members) as possible.
+3. I want to provide as much informitave information as possible to gain peoples interest in our service.
+4. I want to give members something back when they introduce a friend.
 
 ## User stories
 
@@ -60,13 +60,16 @@ Cheap Healthy Meals: We have many recipes that don't require you to shop around.
 3. I want to know what other options (memberships) are available
 
 
-3. Design thought process 
-4. Planning and wireframe design 
-5.	Design choices 
-6. User stories 
-7. Wireframes 
-8. Database structure(PP3, PP4, PP5) 
-9. Anything else you want to add that relates to UX/UI 
+
+
+
+
+Design thought process 
+Planning and wireframe design 
+Design choices 
+Wireframes 
+Database structure(PP3, PP4, PP5) 
+
 
 
 # Testing Section
