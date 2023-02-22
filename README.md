@@ -82,9 +82,11 @@
 
 #Citation of Sources 
 
-1.	Images 
+## Images 
 
-congerdesign https://pixabay.com/photos/olive-oil-tomatoes-basil-eat-1412361/
+### congerdesign 
+
+https://pixabay.com/photos/olive-oil-tomatoes-basil-eat-1412361/
 
 RitaE 
 https://pixabay.com/photos/eclair-strawberrycake-strawberries-3366430/
@@ -134,13 +136,10 @@ https://pixabay.com/photos/shrimp-oyster-seafood-sea-food-1502724/
 DanaTentis 
 https://pixabay.com/photos/salmon-fish-grilled-fish-grill-2997240/
 
-https://pixabay.com/photos/salmon-fish-fried-shrimp-scampi-6353898/
-
+Pxhere.com
 https://pxhere.com/en/photo/1362674
 
 https://pxhere.com/en/photo/1162194
-
-https://pxhere.com/en/photo/1165031
 
 https://pxhere.com/en/photo/618387
 
