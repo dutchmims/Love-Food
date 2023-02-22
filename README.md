@@ -1,6 +1,6 @@
-# H1 Code Institute Project 1
-HTML & CSS
-README.md
+# Code Institute Project 1
+## HTML & CSS
+### README.md
 
 <img width="1135" alt="Screenshot 2023-02-20 at 22 41 51" src="https://user-images.githubusercontent.com/119881922/220458399-ba34809f-ee95-4614-a560-3864aaa995cd.png">
 
