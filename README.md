@@ -37,87 +37,61 @@
 1. Site goals 
 2. Design thought process 
 3. Planning and wireframe design 
+4.	Design choices 
+5. User stories 
+6. Wireframes 
+7. Database structure(PP3, PP4, PP5) 
+8. Anything else you want to add that relates to UX/UI 
 
 
-This section you should have
-•	Site Goals
-•	Design choices 
-•	User stories 
-•	Wireframes 
-•	Database structure(PP3, PP4, PP5) 
-•	Anything else you want to add that relates to UX/UI 
+# Testing Section
+
+1. Show the assessor you have tested your site well 
+2. Show that your site is responsive on multiple devices 
+3. Test user stories 
+4. Show that your code passes validation 
+5. List any unfixed bugs in your code 
 
 
-
-Writing the Testing Section
-
-The testing section should be used to 
-•	Show the assessor you have tested your site well 
-•	Show that your site is responsive on multiple devices 
-•	Test user stories 
-•	Show that your code passes validation 
-•	List any unfixed bugs in your code 
-
-
-
-
-Testing Section Requirements 
-
-Manual testing of your features 
+## Manual testing of your features 
 •	Test each feature of your site using Feature > Expected Result > Action Taken > Result 
 •	Document every feature test with a screenshot 
 
-Manual testing of user stories 
+## Manual testing of user stories 
 •	Test user story by using the site 
 •	Document the results of each test 
 •	Add screenshots to supplement tests 
 
 
+# Deployment
+ 
+1. Show the assessor you know how to deploy your project 
+2. Show future collaborators and clients how to use your software 
+3. Have a record for your future self as a reminder of how to deploy on the platform 
+4. Detailed list of steps taken to deploy 
+5. Deploying to Github Pages/Heroku 
+6. Creating/connecting a Database 
+7. Deployment requirements(env.py, Procfile, Requirements.txt 
+8. Cloning/forking the Github repo 
 
 
-Deployment
- Why have the deployment section 
-•	Show the assessor you know how to deploy your project 
-•	Show future collaborators and clients how to use your software 
-•	Have a record for your future self as a reminder of how to deploy on the platform 
+#Citation of Sources 
 
-What to have in the deployment section 
-•	Detailed list of steps taken to deploy 
-•	Deploying to Github Pages/Heroku 
-•	Creating/connecting a Database 
-•	Deployment requirements(env.py, Procfile, Requirements.txt 
-•	Cloning/forking the Github repo 
-•	Connecting static files from AWS 
+1.	Images 
+2. Code 
+3. Text 
+4. Link to relevant site 
+5. Authors name/pseudonym 
+6. Link to actual content 
 
+# Future Features 
 
-
-Citation of Sources 
+1. You ran out of time 
+2. You weren’t sure if it was viable 
+3. Weren’t comfortable implementing 
 
 
-Crediting Sources 
-
-•	Always credit ALL sources 
-•	Images 
-•	Code 
-•	Text 
-•	Link to relevant site 
-•	Authors name/pseudonym 
-•	Link to actual content 
-
-
-
-Future Features 
-
-Features you did not add yet 
-
-•	You ran out of time 
-•	You weren’t sure if it was viable 
-•	Weren’t comfortable implementing 
-
-
-
-
-Summary 
+# Summary 
 
 As you can see the README is a crucial part of your projects and writing a well-documented README is a skill. By the time you graduate you will be comfortable with markdown and writing good software documentation. 
 The README should be started with your project and never as an afterthought. This way you can add any bugs that crop up and ideas you may have along the way. 
