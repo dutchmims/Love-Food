@@ -1,6 +1,6 @@
-# Code Institute Project 1
+# Code Institute Project 1 Love Food
 ## HTML & CSS
-### README.md
+### README.md by James Healy
 
 <img width="1135" alt="Screenshot 2023-02-20 at 22 41 51" src="https://user-images.githubusercontent.com/119881922/220458399-ba34809f-ee95-4614-a560-3864aaa995cd.png">
 
@@ -8,7 +8,7 @@
 
 <img width="1100" alt="Screenshot 2023-02-20 at 22 43 20" src="https://user-images.githubusercontent.com/119881922/220458272-6859f229-490b-479e-aaf9-64adbf5753a1.png">
 
- 	[Love-Food](https://dutchmims.github.io/Love-Food/)
+ 	[Love-Food] (https://dutchmims.github.io/Love-Food/)
 
 
 Table of contents
