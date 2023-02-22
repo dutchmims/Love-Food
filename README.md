@@ -8,7 +8,7 @@
 
 <img width="1100" alt="Screenshot 2023-02-20 at 22 43 20" src="https://user-images.githubusercontent.com/119881922/220458272-6859f229-490b-479e-aaf9-64adbf5753a1.png">
 
- 	#Love-Food (https://dutchmims.github.io/Love-Food/)
+ 	Love Food (https://dutchmims.github.io/Love-Food/)
 
 
 Table of contents
