@@ -13,7 +13,19 @@
 
 # Table of contents
 
-1. Project Overview
+## Project Overview
+
+Love Food is a website that will essentially ask users for a subscription fee for a one off quick and easy recipe to weekly and monthly subscriptions. Its USP is that the recipes are for everyday and for every person, cheap, easy to cook, simple to follow and healthy. The websites target market is anyone who cooks and eats. It will help people understand what ingredients are required, how much it will cost and how long it will take to make the meal.
+
+To Eat Well: You are what you eat. It will improve your health, mind and body. It doesn't have to cost an arm and a leg. It doesn't have to take all day to prepare. Fresh ingredients, prepared simply is all it takes. 
+
+Quick Recipies: As a member of Love Food, you will have access to a selection of recipes that will change the way you eat forever. Simple, inexpensive and quick to prepare meals will help you eat better every day. 
+
+Easy to Cook: On Love Food, you will learn how easy it can be to prepare delicious healthy meals everyday. From one pot dinner, to tray bakes. Our goal is to make your life easier, so you have more time for other things.
+
+Cheap Healthy Meals: We have many recipes that don't require you to shop around. Everyday items, such as fresh fruit and vegtables, to fresh fish and meat. We will show you how to get the most from your ingredients.
+
+
 2. List of features
 3. UX/UI 
 4. Testing 
