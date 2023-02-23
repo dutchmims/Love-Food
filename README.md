@@ -40,9 +40,7 @@ Cheap Healthy Meals: We have many recipes that don't require you to shop around.
 
 # UX/UI Section 
 
-## Site Goals
-
-### Website Goals
+## Website Goals
 
 ### As the website owner
 1. I want to gain as many views as possible.
@@ -76,7 +74,6 @@ Cheap Healthy Meals: We have many recipes that don't require you to shop around.
 <img width="753" alt="Screenshot 2023-02-22 at 22 56 44" src="https://user-images.githubusercontent.com/119881922/220782406-f221aa3a-a6bb-4fd2-9917-410ae27469b4.png">
 
 
-
 # Testing Section
 
 1. Show the assessor you have tested your site well 
@@ -87,6 +84,7 @@ Cheap Healthy Meals: We have many recipes that don't require you to shop around.
 
 
 ## Manual testing of your features 
+
 1. Test each feature of your site using Feature
 2. Expected Result 
 3. Action Taken 
