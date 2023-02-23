@@ -53,16 +53,13 @@ The footer is consistent throughout the website on each page, showing 4 social m
 * Cheap Healthy Meals: We have many recipes that don't require you to shop around. Everyday items, such as fresh fruit and vegtables, to fresh fish and meat. We will show you how to get the most from your ingredients.
 
 * Below that we are shown a 5 day week of what it is we want the viewer to understand. 5 days of the week, 5 different recipes from 5 different cuisines (country's)
-* Monday        
-  Italian
-  Recipe
-  Ingredients
-  Technique
+
 * Monday
-  Italian
-  Recipe
-  Ingredients
-  Technique
+* Italian
+* Recipe
+* Ingredients
+* Technique
+
 
 
 
