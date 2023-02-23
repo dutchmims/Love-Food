@@ -60,6 +60,29 @@ The footer is consistent throughout the website on each page, showing 4 social m
 * Ingredients
 * Technique
 
+* Tuesday
+* Mexican
+* Recipe
+* Ingredients
+* Technique
+
+* Wednesday
+* Chinese
+* Recipe
+* Ingredients
+* Technique
+
+* Thursday
+* Spanish
+* Recipe
+* Ingredients
+* Technique
+
+* Friday
+* Indian
+* Recipe
+* Ingredients
+* Technique
 
 
 
