@@ -52,6 +52,19 @@ The footer is consistent throughout the website on each page, showing 4 social m
 * Easy to Cook: On Love Food, you will learn how easy it can be to prepare delicious healthy meals everyday. From one pot dinner, to tray bakes. Our goal is to make your life easier, so you have more time for other things.
 * Cheap Healthy Meals: We have many recipes that don't require you to shop around. Everyday items, such as fresh fruit and vegtables, to fresh fish and meat. We will show you how to get the most from your ingredients.
 
+* Below that we are shown a 5 day week of what it is we want the viewer to understand. 5 days of the week, 5 different recipes from 5 different cuisines (country's)
+* Monday        
+  Italian
+  Recipe
+  Ingredients
+  Technique
+* Monday
+  Italian
+  Recipe
+  Ingredients
+  Technique
+
+
 
 ### Gallery
 
