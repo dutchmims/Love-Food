@@ -185,12 +185,10 @@ https://pxhere.com/en/photo/1159521
 ### CSS: Code was based on the Code Institute Love Running Walkthrough.
 
 
-
-
 # Text 
-5. Link to relevant site 
-6. Authors name/pseudonym 
-7. Link to actual content 
+
+### All text was created by myself.
+
 
 # Future Features 
 
