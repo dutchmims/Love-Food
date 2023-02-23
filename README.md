@@ -119,7 +119,7 @@ The footer is consistent throughout the website on each page, showing 4 social m
 
 # Testing Section
 
-* Validator.w3.org was used to test the HTML of the project and found a few errors which were fixed. It was then used at the final stage of the project and no errors were found.
+* Validator.w3.org was used to test the HTML of the project and found a few errors which were fixed. It was then used at the final stage of the project and no errors were found. One warning was given on the Gallery page which I found was not applicable to how I wanted the page to look.
 
 <img width="1237" alt="Screenshot 2023-02-23 at 21 44 09" src="https://user-images.githubusercontent.com/119881922/221038335-9c1c80f2-bbe8-4cf6-87ce-98b827f39378.png">
 
@@ -128,7 +128,7 @@ The footer is consistent throughout the website on each page, showing 4 social m
 <img width="1260" alt="Screenshot 2023-02-23 at 21 45 37" src="https://user-images.githubusercontent.com/119881922/221038386-05139898-ecc6-446a-9a7b-cbe53dff7455.png">
 
 
-* Validator.w3.org was used to test the CSS of the project and found a few errors which were fixed. It was then used at the final stage no errors or warnings were found.
+* Validator.w3.org was used to test the CSS of the project and found a few errors which were fixed. It was then used at the final stage of the project and no errors or warnings were found.
 
 <img width="1246" alt="Screenshot 2023-02-23 at 21 46 46" src="https://user-images.githubusercontent.com/119881922/221038539-2a6f95cc-8743-4b13-a8dd-301fe93159a6.png">
 
