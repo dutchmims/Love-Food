@@ -78,7 +78,7 @@ The footer is consistent throughout the website on each page, showing 4 social m
 
 * The Sign Up page includes a photograph with a text box which allows the user to sign up to our Daily, Weekly or Monthly Meal Plan.
 
-<img width="1277" alt="Screenshot 2023-02-23 at 20 28 35" src="https://user-images.githubusercontent.com/119881922/221023922-f4bab451-be81-4f04-a31b-26049bba5394.png">
+<img width="1279" alt="Screenshot 2023-02-23 at 20 28 55" src="https://user-images.githubusercontent.com/119881922/221024201-e794644a-86e5-44bd-9967-7361567208cf.png">
 
 
 # UX/UI Section 
