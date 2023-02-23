@@ -39,9 +39,15 @@ Love Food is a website that will essentially ask users for a subscription fee fo
 
 The header is consistent throughout the website on each page, showing the website name and logo on the left and the navigation to the 3 pages on the right.
 
+<img width="1276" alt="Screenshot 2023-02-23 at 20 27 35" src="https://user-images.githubusercontent.com/119881922/221023503-aa07fb35-e960-4b80-89ec-0eb5f2ca6dc1.png">
+
+
 ## Footer
 
 The footer is consistent throughout the website on each page, showing 4 social media links and the website copyright at the bottom left.
+
+<img width="1269" alt="Screenshot 2023-02-23 at 20 28 01" src="https://user-images.githubusercontent.com/119881922/221023584-8a4b936a-e4be-43fe-8924-8c02a38bc472.png">
+
 
 ### Homepage
 
@@ -54,55 +60,25 @@ The footer is consistent throughout the website on each page, showing 4 social m
 
 * Below that we are shown a 5 day week of what it is we want the viewer to understand. 5 days of the week, 5 different recipes from 5 different cuisines (country's)
 
-* Monday
-* Italian
-* Recipe
-* Ingredients
-* Technique
-
-* Tuesday
-* Mexican
-* Recipe
-* Ingredients
-* Technique
-
-* Wednesday
-* Chinese
-* Recipe
-* Ingredients
-* Technique
-
-* Thursday
-* Spanish
-* Recipe
-* Ingredients
-* Technique
-
-* Friday
-* Indian
-* Recipe
-* Ingredients
-* Technique
-
+<img width="1279" alt="Screenshot 2023-02-23 at 20 26 46" src="https://user-images.githubusercontent.com/119881922/221023662-675a05c3-66c5-4bf2-a87a-36af9d7a7eb6.png">
+<img width="1273" alt="Screenshot 2023-02-23 at 20 27 03" src="https://user-images.githubusercontent.com/119881922/221023684-1c893b3f-f769-4362-b566-ee19ebd2cb31.png">
+<img width="1274" alt="Screenshot 2023-02-23 at 20 27 17" src="https://user-images.githubusercontent.com/119881922/221023689-c148b14d-f2c9-4e34-be87-d1f3c6d02850.png">
 
 
 ### Gallery
 
-1.
-2.
-3.
+* The gallery shows a host of images of the dishes that were created from our recipes.
+
+<img width="1278" alt="Screenshot 2023-02-23 at 20 28 16" src="https://user-images.githubusercontent.com/119881922/221023767-edbfab3f-0beb-4f27-a815-670afe85c025.png">
+
+<img width="1277" alt="Screenshot 2023-02-23 at 20 28 35" src="https://user-images.githubusercontent.com/119881922/221024025-dee09f0c-72b5-481d-bfe3-1d0271e38f85.png">
 
 
 ### Sign Up
 
-1.
-2.
-3.
+* The Sign Up page includes a photograph with a text box which allows the user to sign up to our Daily, Weekly or Monthly Meal Plan.
 
-
-1. Feature name 
-2. A description about the feature and how it works 
-3. Screenshot image of the feature 
+<img width="1277" alt="Screenshot 2023-02-23 at 20 28 35" src="https://user-images.githubusercontent.com/119881922/221023922-f4bab451-be81-4f04-a31b-26049bba5394.png">
 
 
 # UX/UI Section 
