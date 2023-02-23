@@ -2,7 +2,7 @@
 * {
     margin: 0;
     padding: 0;
-    bottom: none;
+    border-bottom: none;
 }
 body {
     font-family: Lato, sans-serif;
