@@ -43,6 +43,34 @@ Cheap Healthy Meals: We have many recipes that don't require you to shop around.
 
 # Features
 
+## Header
+
+The header is consistent throughout the website on each page, showing the website name and logo on the left and the navigation to the 3 pages on the right.
+
+## Footer
+
+The footer is consistent throughout the website on each page, showing 4 social media links and the website copyright at the bottom left.
+
+### Homepage
+
+1. 
+2.
+3.
+
+### Gallery
+
+1.
+2.
+3.
+
+
+### Sign Up
+
+1.
+2.
+3.
+
+
 1. Feature name 
 2. A description about the feature and how it works 
 3. Screenshot image of the feature 
