@@ -119,25 +119,30 @@ The footer is consistent throughout the website on each page, showing 4 social m
 
 # Testing Section
 
-1. Show the assessor you have tested your site well 
-2. Show that your site is responsive on multiple devices 
-3. Test user stories 
-4. Show that your code passes validation 
-5. List any unfixed bugs in your code 
+* Validator.w3.org was used to test the HTML of the project and found a few errors which were fixed. It was then used at the final stage of the project and no errors were found.
+
+<img width="1237" alt="Screenshot 2023-02-23 at 21 44 09" src="https://user-images.githubusercontent.com/119881922/221038335-9c1c80f2-bbe8-4cf6-87ce-98b827f39378.png">
+
+<img width="1268" alt="Screenshot 2023-02-23 at 21 45 04" src="https://user-images.githubusercontent.com/119881922/221038355-6ef853f2-6f1d-4928-8f04-94d18730c823.png">
+
+<img width="1260" alt="Screenshot 2023-02-23 at 21 45 37" src="https://user-images.githubusercontent.com/119881922/221038386-05139898-ecc6-446a-9a7b-cbe53dff7455.png">
 
 
-## Manual testing of your features 
+* Validator.w3.org was used to test the CSS of the project and found a few errors which were fixed. It was then used at the final stage no errors or warnings were found.
 
-1. Test each feature of your site using Feature
-2. Expected Result 
-3. Action Taken 
-4. Result 
-5. Document every feature test with a screenshot 
+<img width="1246" alt="Screenshot 2023-02-23 at 21 46 46" src="https://user-images.githubusercontent.com/119881922/221038539-2a6f95cc-8743-4b13-a8dd-301fe93159a6.png">
 
-## Manual testing of user stories 
-1. Test user story by using the site 
-2. Document the results of each test 
-3. Add screenshots to supplement tests 
+<img width="1268" alt="Screenshot 2023-02-23 at 21 47 13" src="https://user-images.githubusercontent.com/119881922/221038549-4ad898fa-8cb6-4cbc-9bcb-b22371f63b69.png">
+
+<img width="1260" alt="Screenshot 2023-02-23 at 21 47 52" src="https://user-images.githubusercontent.com/119881922/221038563-b7ed0aca-11b8-4e26-9b15-a13c247898c5.png">
+
+
+# Responsiveness
+
+The website was tested on Chrome, Mozilla, Edge and Safari browsers with no problems found.
+
+The website was tested on numerous sized screens including IPhone 12, 13" Macbook, an Ipad and was found to respond as expected to all sizes.
+
 
 # Technologies Used
 
