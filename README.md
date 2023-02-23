@@ -180,7 +180,7 @@ https://pxhere.com/en/photo/1159521
 
 # Code 
 
-### HTML: Code, Hero-image, zoom effect was based on the Code Institute Love Running Walkthrough.
+### HTML: Code, Hero-image, zoom effect was based on the Code Institute Love Running Walkthrough Project.
 ### CSS: Code was based on the Code Institute Love Running Walkthrough.
 
 
