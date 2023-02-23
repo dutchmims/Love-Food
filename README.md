@@ -249,13 +249,6 @@ https://pxhere.com/en/photo/1159521
 ### All text was created by myself.
 
 
-# Future Features 
-
-1. You ran out of time 
-2. You weren’t sure if it was viable 
-3. Weren’t comfortable implementing 
-
-
 # Summary 
 
 As you can see the README is a crucial part of your projects and writing a well-documented README is a skill. By the time you graduate you will be comfortable with markdown and writing good software documentation. 
