@@ -91,7 +91,7 @@ The footer is consistent throughout the website on each page, showing 4 social m
 3. I want to provide as much informitave information as possible to gain peoples interest in our service.
 4. I want to give members something back when they introduce a friend.
 
-## User stories
+## User Goals
 
 ### As a first time visitor
 1. I want to easily understand the product and whats being offered.
@@ -241,7 +241,7 @@ https://pxhere.com/en/photo/1159521
 # Code 
 
 ### HTML: Code, Hero-image, zoom effect was based on the Code Institute Love Running Walkthrough Project.
-### CSS: Code was based on the Code Institute Love Running Walkthrough.
+### CSS: Code was based on the Code Institute Love Running Walkthrough Project.
 
 
 # Text 
@@ -251,10 +251,6 @@ https://pxhere.com/en/photo/1159521
 
 # Summary 
 
-As you can see the README is a crucial part of your projects and writing a well-documented README is a skill. By the time you graduate you will be comfortable with markdown and writing good software documentation. 
-The README should be started with your project and never as an afterthought. This way you can add any bugs that crop up and ideas you may have along the way. 
-
-The README is your direct line of communication to the Assessor within this course and to a potential client/collaborator in your career as a developer. This is a powerful tool for communicating your ideas and process and should be treated with the utmost importance. 
 
 
 
