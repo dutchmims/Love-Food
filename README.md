@@ -100,15 +100,14 @@ Cheap Healthy Meals: We have many recipes that don't require you to shop around.
 
 
 # Deployment
- 
-1. Show the assessor you know how to deploy your project 
-2. Show future collaborators and clients how to use your software 
-3. Have a record for your future self as a reminder of how to deploy on the platform 
-4. Detailed list of steps taken to deploy 
-5. Deploying to Github Pages/Heroku 
-6. Creating/connecting a Database 
-7. Deployment requirements(env.py, Procfile, Requirements.txt 
-8. Cloning/forking the Github repo 
+
+### The site was deployed to GitHub pages. The steps taken are as follows:
+
+1. Log in to Github
+2. In the repository "Love-Food", navigate to the settings tab from the top menu.
+3. In settings select pages.
+4. From the source section, select the Master Branch and then save.
+5. The page is refreshed and you will then see the URL of your website.
 
 
 #Citation of Sources 
